@@ -1,16 +1,17 @@
-# flutter_sqlite
+# Flutter Sqlite
 
-A new Flutter project.
+Tugas Sqlite
 
-## Getting Started
+Nama : Yudas Malabi
 
-This project is a starting point for a Flutter application.
+Kelas : TI 3C / 25
 
-A few resources to get you started if this is your first Flutter project:
+NIM : 2041720054
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Hasil Praktikum](assets/screenshots/add.png)
+
+![Hasil Praktikum](assets/screenshots/list.png)
+
+![Hasil Praktikum](assets/screenshots/update.png)
